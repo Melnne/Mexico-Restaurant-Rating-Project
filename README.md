@@ -2,12 +2,12 @@
 
 ### Table of Content
 - [Introduction](#introductio)
-- [Problem/statement](#problem_statement)
-- [Skills/Demonstrated](#skills_emonstrated)
+- [Problem statement](#problem-statement)
+- [Skills Demonstrated](#skills-emonstrated)
 - [Data Source](#data-source)
 - [Tool](#tool)
-- [Data/Transformation](#data_transformation)
-- [Findings](#Findings)
+- [Data Transformation](#data-transformation)
+- [Results and Findings](#Results-and-Findings)
 - [Recommendation](#recommendation)
 
 ### Introduction
