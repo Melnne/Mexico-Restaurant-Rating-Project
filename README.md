@@ -13,7 +13,8 @@
 ### Introduction
 
 This data set is called the restaurant rating dataset which contains information about restaurants in mexico. A customer survey was carried out in this city in 2012 to collate information about each restaurant, their cuisines, information about their consumers and the preferences of the consumers. I analyzed the data to provide insight into the restaurant rating and make-data driven recommendation. 
-![restuarant dashboard](https://github.com/user-attachments/assets/941a3b37-3984-4828-b079-d06b529989ba)
+![Mexican Restaurant Dashboard](https://github.com/user-attachments/assets/5d683789-2e03-4113-9cd5-6108affef3ab)
+
 
 ### Problem Statement
 1. What can you learn from the highest rated restaurants? Do consumer preferences have an effect on ratings?
