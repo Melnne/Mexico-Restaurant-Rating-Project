@@ -56,10 +56,11 @@ While exploring the data i took notice of the consumer preference table being de
 
 
 ### Results and Findings
-1. The restaurant with the highest  ratings is  Tortas lucas Hipocampo  and they are mostly patronized by those with medium budget because these people prefer restaurants with medium price that matches their budget
-2. On the basis of occupation most of the consumers are student, on the basis of marital status most of the consumers are single people and on the basis of  age they are young adults within the age of 20-30.
-3. San Luis Potosi have the highest number of restaurant which makes them have the highest number of consumers.
-4. Most of the consumers prefer Mexican cuisine yet there is only 28 restaurants that offer this cuisine out of 130 restaurants showing a huge demand and supply gap
+1. There are 130 restaurants, 138 consumers, 3 states and 23 cuisines
+2. The restaurant with the highest  ratings is  Tortas lucas Hipocampo  and they are mostly patronized by those with medium budget because these people prefer restaurants with medium price that matches their budget,
+3. On the basis of occupation most of the consumers are student, on the basis of marital status most of the consumers are single people and on the basis of  age they are young adults within the age of 20-30.
+4. San Luis Potosi have the highest number of restaurant which makes them have the highest number of consumers.
+5. Most of the consumers(97) prefer Mexican cuisine yet there is only 28 restaurants that offer this cuisine out of 130 restaurants showing a huge demand and supply gap
 
 
  ### Recommendation
