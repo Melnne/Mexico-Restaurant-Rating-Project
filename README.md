@@ -1,9 +1,9 @@
 # Mexico Restaurant Rating Analysis
 
 ### Table of Content
-- [Introduction](#introductio)
+- [Introduction](#introduction)
 - [Problem statement](#problem-statement)
-- [Skills Demonstrated](#skills-emonstrated)
+- [Skills Demonstrated](#skills-dmonstrated)
 - [Data Source](#data-source)
 - [Tool](#tool)
 - [Data Transformation](#data-transformation)
